@@ -216,9 +216,6 @@ Improvements: Added action penalties, LLM confidence weighting, threshold tuning
 - **Intervention Success Rate:** 60%
 - **Monthly Interventions:** ~180
 
-See [BUSINESS_IMPACT.md](docs/BUSINESS_IMPACT.md) for detailed analysis.
-
----
 
 ## 🔬 Technical Highlights
 
@@ -269,8 +266,6 @@ See [BUSINESS_IMPACT.md](docs/BUSINESS_IMPACT.md) for detailed analysis.
 - Risk window calculations
 - Intervention candidate flagging
 
-**Attribution:** This project uses publicly available data from Kaggle. See [data/README.md](data/README.md) for details.
-
 ---
 
 ## 🎯 Use Cases & Applications
@@ -299,22 +294,12 @@ This architecture applies to any **event-driven risk management** scenario:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 **Areas for Enhancement:**
 - Real-time event streaming (Kafka integration)
 - Reinforcement learning from feedback
 - Multi-agent orchestration
 - Vector database for similar ticket search
 - Advanced visualization dashboards
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
