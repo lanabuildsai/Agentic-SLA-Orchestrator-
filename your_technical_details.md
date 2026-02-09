@@ -1,11 +1,8 @@
-# Your Specific Technical Details
-## Copy-Paste Ready Information for Gamma Prompts
+#Specific Technical Details
 
 ---
 
-## 📊 DATA SOURCE (Insert This Verbatim)
 
-**For "Data Source" slides, use:**
 
 ```
 DATA SOURCE:
